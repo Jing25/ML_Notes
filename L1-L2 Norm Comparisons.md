@@ -44,7 +44,7 @@
     "\n",
     "### Regularization\n",
     "\n",
-    "Regularization is a very important technique in machine learning to prevent overfitting by adding a regularization term. \n",
+    "Regularization is a very important technique in machine learning to prevent overfitting by adding a regularization term. The regularization term should __only__ be added to the cost function during __training__.\n",
     "\n",
     "Ridge regression and Lasso regression are extensions for linear regression, i.e. regularized linear regressions.\n",
     "\n",
